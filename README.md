@@ -1,1 +1,1 @@
-# hospitalization_statu_prediction
+# hospitalization_status_prediction
